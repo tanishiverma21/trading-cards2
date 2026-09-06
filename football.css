@@ -1,0 +1,82 @@
+*{
+margin:0px;
+padding:0px;
+font-family:fantasy;
+color:rgb(37, 50, 165);}
+
+.navbar{
+background-color:rgb(90, 161, 255);
+display:flex;
+justify-content:space-between;
+align-items:center;}
+
+img{
+height:100px;
+width:100px;}
+
+.link{
+margin-right:20px;
+padding:10px;
+font-size:20px;}
+
+.btn{
+margin-right:16px;
+background-color:rgba(122, 164, 255, 0.897);
+padding:10px;}
+
+.football-heading,.pokemon-heading,.avengers-heading{
+padding:20px;
+margin:10px;
+text-align:center;
+font-weight:400;}
+
+.football-img,.pokemon-img,.avengers-img{
+ height:300px;
+ width:250px;}
+
+ .card{
+  height:300px;
+  width:250px;
+  margin:20px;
+  padding:10px;}
+
+  
+  .card-container{
+     display:flex;
+     flex-wrap:wrap;}
+
+ .contact-container{
+   display:flex;
+   justify-content:space-around;
+   height:88vh;
+   width:90vw;
+   align-items:center;
+   font-size:30px;
+   font-weight:400;}
+   
+   h5{
+   font-weight:400;}
+
+   input{
+    padding:20px 12px;
+    margin:12px;}
+
+    .home-container{
+     background:linear-gradient(to right,#fdfbfc,rgb(164, 255, 247),rgb(217, 175, 255),rgb(208, 255, 0));
+     height:100vh;
+     width:100vw;
+     background-size:contain;
+     background-repeat: no-repeat;
+     background-position:center;
+     text-align:center;
+     color:azure;
+     display:flex;
+     justify-content:center;
+     align-items:center;
+     flex-direction:column;}
+
+     .Welcome,.h4,.Football{
+     color:rgb(82, 5, 0);
+     font-size:50px;
+     font-weight:5px;}
+    
